@@ -19,21 +19,21 @@
 ## Report
 
 1. Get Method
-![Screenshot](asset/GetMethod.png)
-![Screenshot](asset/LiveViewer_Get.png)
+![Screenshot](asset/GetMethod.PNG)
+![Screenshot](asset/LiveViewer_Get.PNG)
 
 2. Post Method
-![Screenshot](asset/PostMethod.png)
-![Screenshot](asset/LiveViewer_Post.png)
+![Screenshot](asset/PostMethod.PNG)
+![Screenshot](asset/LiveViewer_Post.PNG)
 
 3. Put Method
-![Screenshot](asset/PutMethod.png)
-![Screenshot](asset/LiveViewer_Put.png)
+![Screenshot](asset/PutMethod.PNG)
+![Screenshot](asset/LiveViewer_Put.PNG)
 
 4. Patch Method
-![Screenshot](asset/PatchMethod.png)
-![Screenshot](asset/LiveViewer_Patch.png)
+![Screenshot](asset/PatchMethod.PNG)
+![Screenshot](asset/LiveViewer_Patch.PNG)
 
 5. Delete Method
-![Screenshot](asset/DeleteMethod.png)
-![Screenshot](asset/LiveViewer_Delete.png)
+![Screenshot](asset/DeleteMethod.PNG)
+![Screenshot](asset/LiveViewer_Delete.PNG)
