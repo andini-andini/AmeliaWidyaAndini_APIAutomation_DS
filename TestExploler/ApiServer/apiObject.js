@@ -24,7 +24,11 @@ async function postMethod() {
         })
 
     expect(response.status).to.equal(200);
+    console.log(response.body.id);
     console.log(response.body);
+
+    const id = response.body.id;
+    return id;
 }
 
 async function putMethod(id) {
